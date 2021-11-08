@@ -1,9 +1,8 @@
 ---
-title: A Blog That Works
+title: My Blog
 description: |
-  This is a fully featured blog that supports categories, 
-  tags, series, and pagination.
-author: "The R Markdown Team @RStudio"
+  My blog where I share my thoughts on psychology, research methods, and things that wouldn't get past peer review. I'm a novice on many of these topics, so this platform lets me share my thoughts without the pressure of having to be right. Although, I try my best to do that and am always open to feedback.
+author: "Brendan Lam"
 show_post_thumbnail: true
 show_author_byline: true
 show_post_date: true
@@ -12,11 +11,9 @@ layout: list-sidebar # list, list-sidebar, list-grid
 
 # for list-sidebar layout
 sidebar: 
-  title: A Sidebar for Your Thoughts
+  title: p = 0.49
   description: |
-    This is a fully featured blog that supports categories,
-    tags, series, and pagination. Even this sidebar offers 
-    a ton of customizations.
+    A blog where I share my thoughts on psychology, research methods, and things that wouldn't get past peer review. I'm a novice on many of these topics, so this platform lets me share my thoughts without the pressure of having to be right. Although, I try my best to do that and am always open to feedback.
     
     Check out the _index.md file in the /blog folder 
     to edit this content. 
@@ -27,7 +24,7 @@ sidebar:
 
 # set up common front matter for all pages inside blog/
 cascade:
-  author: "The R Markdown Team @RStudio"
+  author: "Brendan Lam"
   show_author_byline: true
   show_post_date: true
   show_disqus_comments: false # see disqusShortname in site config

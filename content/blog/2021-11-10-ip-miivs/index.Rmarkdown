@@ -1,14 +1,14 @@
 ---
-title: "Lorem Arrested Development"
-subtitle: "How to add panelsets in R Markdown posts."
-excerpt: "Add tabbed sections with code and results."
-date: 2021-05-24
-author: "Alison Hill"
+title: "Item Parceling and Model Implied Instrumental Variables"
+subtitle: "How does parceling items in SEM affect the measurement and structural model in MIIVs?"
+excerpt: "Investigating how item parceling affects the performance of MIIVs."
+date: 2021-11-24
+author: "Brendan Lam"
 draft: false
 # layout options: single, single-sidebar
 layout: single
 categories:
-- evergreen
+- SEM
 ---
 
 ## But first, panelsets with R code chunks

@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://lucid-kalam-adb61a.netlify.app"
 theme = "hugo-apero"
 languageCode = "en"
 title = "Personal website of Brendan Lam"

@@ -2,7 +2,7 @@
 title: "Brendan Lam"
 subtitle: "Lab Coordinator @ Holland Bloorview Kids Rehabilitation Hospital"
 description: "Welcome to my personal website. You'll find my projects, research, and blog posts here."
-date: 2021-11-09T12:27:33-06:00
+date: 2021-11-08T12:27:33-06:00
 images:
   - img/Philly.jpg
 image_left: true

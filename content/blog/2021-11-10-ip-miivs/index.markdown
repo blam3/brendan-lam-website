@@ -2,7 +2,7 @@
 title: "Item Parceling and Model Implied Instrumental Variables"
 subtitle: "How does parceling items in SEM affect the measurement and structural model in MIIVs?"
 excerpt: "Investigating how item parceling affects the performance of MIIVs."
-date: 2021-11-24
+date: 2021-11-08
 author: "Brendan Lam"
 draft: false
 # layout options: single, single-sidebar
